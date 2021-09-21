@@ -8,7 +8,8 @@ namespace ConsoleApplication1
             int i=22;  
             string msg = i % 2 == 0 ? "Entered Number is an Even Number" : "Entered Number is an Odd Number";            
             Console.Write(msg);
-            Console.Read();                      
+            Console.Read();       
+            //sadashdghasgdjhagsd               
         }
     }
 }
